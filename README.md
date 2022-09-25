@@ -21,7 +21,7 @@ Part 2: Create a Logistic Regression Model with the Original Data
 Step 2: Use the LogisticRegression classifier and the resampled data to fit the model and make predictions
 Step 3: Evaluate the model's performance
 
-File Navigation MC_credit_risk_resampling.ipynb (code explanation and notebook for building), lending_data.csv (existing lending data), Credit_Risk_Report (report recommending models with further summary and analysis)
+File Navigation MC_credit_risk_resampling.ipynb (code explanation and notebook for building), lending_data.csv (existing lending data), Credit_Risk_Analysis_Report (report recommending models with further summary and analysis)
 © 2022 GitHub, Inc.
 Footer navigation
 
